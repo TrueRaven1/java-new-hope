@@ -37,3 +37,9 @@ public class WorkWithObjects {
 // 4. V klasse bil metod otobrazhenija vseh zametok
 // 5. Metod otobrazhatj zametki konkretnogo poljzovatelja
 // 6. Kategorii sdelatj Enamom
+
+//7. V proekte s zametkami sozdatj strukturu proekta, dobavitj biblioteki springweb i 2,
+//8. controller, endpoint s adresom (otobrazhatj vse zametki) (shou notes),zapolnitj objekt i peredatj na controller, ispoljzuja model otobrazhatj na stranichke zametki
+//9. otobrazhatj vse zametki ispoljzuja for cikl u timeleaf
+//10, sdelatj otdeljnij endpoint v kotorom peredovatj imeil poljzovatelja, i na stranichke budut otobrazheni zametki konkretnogo poljzovatelja
+// /points /
