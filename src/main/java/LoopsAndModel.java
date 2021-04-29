@@ -1,6 +1,6 @@
-import model.Course;
-import model.Student;
-import model.enums.CourseName;
+import model1.Course;
+import model1.Student;
+import model1.enums.CourseName;
 
 import java.util.List;
 

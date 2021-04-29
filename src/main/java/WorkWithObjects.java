@@ -1,4 +1,4 @@
-import model.Student;
+import model1.Student;
 
 public class WorkWithObjects {
     public static void main(String[] args) {
@@ -43,3 +43,7 @@ public class WorkWithObjects {
 //9. otobrazhatj vse zametki ispoljzuja for cikl u timeleaf
 //10, sdelatj otdeljnij endpoint v kotorom peredovatj imeil poljzovatelja, i na stranichke budut otobrazheni zametki konkretnogo poljzovatelja
 // /points /
+
+//11. sdelatj sozdanie zametki (enpoint s formoj, )
+//12. sdelatj validaciju na predmet oshibok
+//13* esli dannie ne prohodjat validaciju, pokazivatj ne oshibku a formu s oshibkoj, i formu ostavitj zapolnenoj.

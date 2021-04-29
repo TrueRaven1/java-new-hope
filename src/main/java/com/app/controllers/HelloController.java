@@ -13,5 +13,4 @@ public class HelloController {
         model.addAttribute("name", userName);
         return "hello";
     }
-
 }
