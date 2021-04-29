@@ -1,4 +1,4 @@
-package model.enums;
+package model1.enums;
 
 public enum CourseName {
     QA1("Manual testing"),

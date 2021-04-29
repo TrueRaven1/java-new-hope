@@ -1,6 +1,6 @@
-package model;
+package model1;
 
-import model.enums.CourseName;
+import model1.enums.CourseName;
 
 import java.util.ArrayList;
 import java.util.List;
